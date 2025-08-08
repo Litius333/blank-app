@@ -4,7 +4,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 import seaborn as sns
 
-st.set_page_config(page_title='Valdez_Enterprise', layout='wide')
+st.set_page_config(page_title='Valdez_Enterprise', page_icon='Foto.png', layout='wide')
 
 st.title("Proyecto : Protocolo Fantasma")
 
